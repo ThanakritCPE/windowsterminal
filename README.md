@@ -1,3 +1,4 @@
+https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell-and-powerlevel10k-6484461c6efb
 1. login windows insder program 
 
 2. update windows
